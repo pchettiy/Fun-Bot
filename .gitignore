@@ -1,0 +1,8 @@
+# Google App Engine generated folder
+appengine-generated/
+/bs4/
+/requests/
+/app.yaml
+/config.py
+/favicon.ico
+/index.yaml
